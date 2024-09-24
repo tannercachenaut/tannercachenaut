@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Tanner Cahcnaut, a student currently at Citrus College. 
 
 <!--
 **tannercachenaut/tannercachenaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
